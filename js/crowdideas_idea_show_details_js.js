@@ -1,0 +1,1 @@
+function clickfunction(){		document.getElementById('successfullrate').style.display = 'block';	}

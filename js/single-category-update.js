@@ -1,0 +1,1 @@
+function validcheckfields(){	var field_title = document.getElementById("title").value.trim();	if(field_title == '') {alert('Fill the title'); document.getElementById("title").focus();return false;}	else {document.getElementById('formID').submit(); }			}

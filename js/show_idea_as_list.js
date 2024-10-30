@@ -1,0 +1,1 @@
+function validrank(){		if(document.rank.rankby.value==""){			alert('Please select a value from drop down');			return false;		}	}

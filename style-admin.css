@@ -1,0 +1,18 @@
+.widefat1 {width: 100%;
+}
+.croud-text {
+	padding:10px;
+	width:100%;
+	font-size:18px;
+}
+.drop-plagin {
+	width:200px;
+	padding:10px !important;
+	    height: auto !important;
+}
+.campne-list {
+    color: #0073aa !important;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px !important;
+}

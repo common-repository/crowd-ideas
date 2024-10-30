@@ -1,0 +1,1 @@
+.responsive-table {	overflow:scroll;}@media screen and (max-width: 782px).wp-list-table tr:not(.inline-edit-row):not(.no-items) td:not(.check-column) {    position: relative;    clear: both;    display: block;    width: 100%!important;}
